@@ -17,7 +17,6 @@ Compile com:
 ```bash
 gcc main.c -o supertrunfo
 ./supertrunfo
-https://github.com/seu-usuario/super-trunfo-paises-c
 👩‍🎓 Autor
 
 Trabalho desenvolvido por Maikon Douglas para a faculdade.
